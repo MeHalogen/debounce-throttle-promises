@@ -1,6 +1,6 @@
 {
   "name": "debounce-throttle-promises",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise-aware debounce and throttle wrappers that resolve callers to execution outcomes.",
   "type": "module",
   "main": "./dist/index.js",
