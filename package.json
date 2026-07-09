@@ -1,6 +1,6 @@
 {
   "name": "debounce-throttle-promises",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Promise-aware debounce and throttle wrappers that resolve callers to execution outcomes.",
   "type": "module",
   "main": "./dist/index.js",
@@ -29,5 +29,13 @@
   "devDependencies": {
     "typescript": "^5.8.0",
     "vitest": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeHalogen/debounce-throttle-promises.git"
+  },
+  "homepage": "https://github.com/MeHalogen/debounce-throttle-promises#readme",
+  "bugs": {
+    "url": "https://github.com/MeHalogen/debounce-throttle-promises/issues"
   }
 }
